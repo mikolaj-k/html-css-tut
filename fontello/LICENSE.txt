@@ -1,13 +1,13 @@
 Font license info
 
 
-## Zocial
+## Brandico
 
-   Copyright (C) 2012 by Sam Collins
+   (C) 2012 by Vitaly Puzrin
 
-   Author:    Sam Collins
-   License:   MIT (http://opensource.org/licenses/mit-license.php)
-   Homepage:  http://zocial.smcllns.com/
+   Author:    Crowdsourced, for Fontello project
+   License:   SIL (http://scripts.sil.org/OFL)
+   Homepage:  
 
 
 ## Typicons

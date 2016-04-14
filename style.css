@@ -4,6 +4,21 @@ body {
     font-family: 'Lato', sans-serif;
     font-size: 20px;
 }
+a{
+   text-decoration: none;
+   color: white;
+}
+a.tilelink {
+    display: block;
+    width: 230px;
+    height: 142px;
+}
+a.sociallink {
+    display: block;
+    width: 146px;
+    height: 142px;
+    text-align: center;
+}
 #container {
     width: 1000px;
     margin-left: auto;
@@ -42,8 +57,8 @@ body {
     float: left;
     text-align: center;
 }
-.tile1:hover{
-   background-color: #2085c2;
+.tile1:hover {
+    background-color: #2085c2;
 }
 .tile2 {
     margin: 10px;
@@ -53,8 +68,8 @@ body {
     float: left;
     text-align: center;
 }
-.tile2:hover{
-   background-color: #555555;
+.tile2:hover {
+    background-color: #555555;
 }
 .tile3 {
     margin: 10px;
@@ -64,8 +79,8 @@ body {
     float: left;
     text-align: center;
 }
-.tile3:hover{
-   background-color: #82b637;
+.tile3:hover {
+    background-color: #82b637;
 }
 .tile4 {
     margin: 10px;
@@ -86,45 +101,35 @@ body {
     text-align: justify;
     padding: 30px;
 }
-.yt {
-    margin: 10px;
-    width: 105px;
-    height: 142px;
-    background-color: #d94348;
-    float: left;
-}
-.yt:hover{
-   background-color: #c83237;
-}
 .fb {
-    margin: 10px;
-    width: 105px;
+    width: 146px;
     height: 142px;
     background-color: #4668b3;
     float: left;
-}
-.fb:hover{
-   background-color: #4557a2;
-}
-.gplus {
     margin: 10px;
-    width: 105px;
-    height: 142px;
-    background-color: #d95333;
-    float: left;
 }
-.gplus:hover{
-   background-color: #c84222;
+.fb:hover {
+    background-color: #4557a2;
+}
+.git {
+    width: 146px;
+    height: 142px;
+    background-color: #c9510c;
+    float: left;
+    margin: 10px;
+}
+.git:hover {
+    background-color: #b8400b;
 }
 .tw {
-    margin: 10px;
-    width: 105px;
+    width: 146px;
     height: 142px;
     background-color: #3095d3;
     float: left;
+    margin: 10px;
 }
-.tw:hover{
-   background-color: #2084c2;
+.tw:hover {
+    background-color: #2084c2;
 }
 .clear {
     clear: both;

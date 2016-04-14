@@ -7,33 +7,9 @@
   "ascent": 850,
   "glyphs": [
     {
-      "uid": "e566d3f1d24f22981f6552d5188e7265",
-      "css": "gplus",
-      "code": 59392,
-      "src": "zocial"
-    },
-    {
-      "uid": "b1ec8e90c2c85cf0035849980a3789b3",
-      "css": "twitter",
-      "code": 59394,
-      "src": "zocial"
-    },
-    {
-      "uid": "57a4f84c40a0c44d47387105f162a427",
-      "css": "youtube",
-      "code": 59395,
-      "src": "zocial"
-    },
-    {
-      "uid": "6f7586c6f99798c3c1de6123d1f6cfa9",
-      "css": "facebook",
-      "code": 59396,
-      "src": "zocial"
-    },
-    {
       "uid": "eea1af32a01c5e7a9ce5675bcff64a7b",
       "css": "laptop",
-      "code": 59393,
+      "code": 59396,
       "src": "typicons"
     },
     {
@@ -59,6 +35,24 @@
       "css": "mail",
       "code": 59400,
       "src": "typicons"
+    },
+    {
+      "uid": "8045477f6a7ef0bd7caff130ad25b88d",
+      "css": "facebook-rect",
+      "code": 59392,
+      "src": "brandico"
+    },
+    {
+      "uid": "4a0bb1ac004980bb3837560d4c9e8cee",
+      "css": "github",
+      "code": 59393,
+      "src": "brandico"
+    },
+    {
+      "uid": "4c01f5d3ba5fbf029bca8630cce41e6a",
+      "css": "twitter-bird",
+      "code": 59394,
+      "src": "brandico"
     }
   ]
 }
