@@ -1,4 +1,136 @@
-body
-{
- background: grey;
+body {
+    background: #303030;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+a{
+   text-decoration: none;
+   color: white;
+}
+a.tilelink {
+    display: block;
+    width: 230px;
+    height: 142px;
+}
+a.sociallink {
+    display: block;
+    width: 146px;
+    height: 142px;
+    text-align: center;
+}
+#container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.rectangle {
+    width: 960px;
+    margin: 20px;
+    text-align: center;
+}
+#logo {
+    font-family: 'Dosis', sans-serif;
+    font-size: 2.5em;
+    width: 600px;
+    float: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+#watch {
+    font-family: 'Dosis', sans-serif;
+    font-size: 2.5em;
+    float: right;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+.square {
+    float: left;
+}
+.tile1 {
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #3095d3;
+    float: left;
+    text-align: center;
+}
+.tile1:hover {
+    background-color: #2085c2;
+}
+.tile2 {
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #666666;
+    float: left;
+    text-align: center;
+}
+.tile2:hover {
+    background-color: #555555;
+}
+.tile3 {
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #93c748;
+    float: left;
+    text-align: center;
+}
+.tile3:hover {
+    background-color: #82b637;
+}
+.tile4 {
+    margin: 10px;
+    width: 430px;
+    height: 92px;
+    background-color: #ee5a32;
+    text-align: center;
+    font-size: 1.2em;
+    line-height: 1.3;
+    padding: 25px;
+}
+.tile5 {
+    margin: 10px;
+    width: 420px;
+    height: 244px;
+    background-color: #666666;
+    text-align: center;
+    text-align: justify;
+    padding: 30px;
+}
+.fb {
+    width: 146px;
+    height: 142px;
+    background-color: #4668b3;
+    float: left;
+    margin: 10px;
+}
+.fb:hover {
+    background-color: #4557a2;
+}
+.git {
+    width: 146px;
+    height: 142px;
+    background-color: #c9510c;
+    float: left;
+    margin: 10px;
+}
+.git:hover {
+    background-color: #b8400b;
+}
+.tw {
+    width: 146px;
+    height: 142px;
+    background-color: #3095d3;
+    float: left;
+    margin: 10px;
+}
+.tw:hover {
+    background-color: #2084c2;
+}
+.clear {
+    clear: both;
 }
